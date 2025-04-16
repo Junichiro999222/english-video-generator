@@ -1,0 +1,16 @@
+openai
+ffmpeg-python
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+papermill
+pydub
+moviepy
+librosa
+gTTS
+opencv-python
+torch
+yt-dlp
+git+https://github.com/openai/whisper.git
+boto3
